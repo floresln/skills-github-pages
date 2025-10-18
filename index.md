@@ -1,4 +1,4 @@
 ---
-title: Welcome to My Blog
+title: "Welcome to my blog"
+date: 2025-10-17
 ---
-
